@@ -60,7 +60,10 @@ while isHungry:
                         print("You are now tired from all of the playing and eating.")
                         print("You rest up in your comfy cardboard box and have to choose how many hours you are going to sleep.")
                         print("Choose an option:")
-                        print("a:")
+                        print("a: You choose to sleep for a solid 8 hours")
+                        print("b: You decide to sleep for 4 hours")
+                        print("c: You are tired and sleep for 10 hours")
+                        
 
                 
 
