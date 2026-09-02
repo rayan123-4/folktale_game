@@ -1,4 +1,4 @@
-print("The Great Raccoon Bakery Heist")
+print("The Great Raccoon Bakery Heist!")
 print("You are a hungry Raccoon standing in the dark alley behind a bakery in the middle of the night. You smell fresh croissants.")
 
 newFriends = False
