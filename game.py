@@ -115,7 +115,7 @@ while newFriends:
 
         elif choice == "a": 
             print("You chose door 1!")
-            print("You opened the door to the sewers and had to find your way out, luckily after some time you ran into bob the rat and he showed you the way")
+            print("You opened the door to the sewers and had to find your way out, luckily after some time you ran into Bob the rat and he showed you the way")
             print("You won, but there was a better way to escape.")
             isBonus = False
 
