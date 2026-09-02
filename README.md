@@ -8,7 +8,8 @@ This is a Text game that I have made to showcase my use of **Python**.
 
 # How to play:
 - Read the story prompt carefully.
--  Then type **a**, **b**, or **c** to make your choices.
+- Then type **a**, **b**, or **c** to make your choice.
+- **note: play multiple times because different choices can give different bonus results.**
 
 ## To look at the source code:
 **git clone https://github.com/rayan123-4/folktale_game**
